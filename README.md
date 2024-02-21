@@ -1,13 +1,11 @@
-<!DOCTYPE html>
+
 <html>
 
 jihad Alsahori
 <h2 style="">2/17/2024</h2>
 
 
-</style>
-<body>
-</style>
+
 <body>
 
 <h2 style="text-align:center;color:#black;">Title: CSC 225 (Lab 2)</h2> 
@@ -44,5 +42,4 @@ industry, ready to dive in, learn, and make a meaningful contribution.</h2>
   <li><a href="https://docs.google.com/presentation/d/1zVvi4LsT2AyjfOx13ISjsjQsAqkA2iVMBKKghqN1gTk/edit?usp=sharing">Presentation(2023): Data Privacy And Security Analysis</a></li>
 
 
-</body>
-</html>
+
