@@ -26,9 +26,7 @@ industry, ready to dive in, learn, and make a meaningful contribution.</h2>
   <hr style="width:100%;text-align:#black;left;margin-left:0">
   
   <h3><b> <i>My Top Sports</i></b></h3>
-
-    <ol>
-        <li>Soccer/football</li>
+ <li>Soccer/football</li>
         <hr style="width:10%;text-align:#black;left;margin-left:0">
         <li>BasketBall</li>
            <hr style="width:10%;text-align:#black;left;margin-left:0">
@@ -38,7 +36,8 @@ industry, ready to dive in, learn, and make a meaningful contribution.</h2>
            <hr style="width:10%;text-align:#black;left;margin-left:0">
         <li>Cricket</li>
            <hr style="width:10%;text-align:#black;left;margin-left:0">
-    </ol>
+    <ol>
+       
 
 <ul>
 <h2 style="text-align:center;color:;">LINKS:<ul>
